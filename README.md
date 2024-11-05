@@ -35,3 +35,7 @@ The primary tool used is Power BI for data visualization and analysis.
 ![Screenshot (12)](https://github.com/user-attachments/assets/dd8e18b3-4345-4ffc-a2c2-10746705d4fe)
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/b142bdca-e83e-468f-96bf-cae3225f8f3a)
+
+https://github.com/Jolaoyin/Incubator-Hub-HR-Data-Analysis/blob/main/Screenshot%20(12).png
+
+https://github.com/Jolaoyin/Incubator-Hub-HR-Data-Analysis/blob/main/Screenshot%20(13).png
