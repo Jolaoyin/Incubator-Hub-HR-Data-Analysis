@@ -31,7 +31,7 @@ The primary tool used is Power BI for data visualization and analysis.
 3. Slicer was added to Educational field and Job role and also Filters.
 4. KPI Cards were used to identify key metrics such as Attrition Count, Attrition Rate, Total Employees, Current Employees and Average Age
 
-## Data Visualisation
+## Data Visualisation - PowerBI
 ![Screenshot (12)](https://github.com/user-attachments/assets/dd8e18b3-4345-4ffc-a2c2-10746705d4fe)
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/b142bdca-e83e-468f-96bf-cae3225f8f3a)
