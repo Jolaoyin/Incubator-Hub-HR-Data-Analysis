@@ -12,18 +12,18 @@ This project uses a HR_DATA.CSV file from the Incubator Hub to analyze employee 
 The primary tool used is Power BI for data visualization and analysis.
 
 ## Data Components: some of the dataset used are
-Attrition: Indicates whether the employee has left the organization.
-CF_age band: Age group category of the employee.
-CF_attrition label: Label categorizing employees as current or ex-employees.
-Department: Department where the employee works (e.g., Sales, R&D).
-Education Field: Field of study related to the employee’s education.
-Gender: Employee's gender.
-Job Role: Specific role or position of the employee within the company.
-Marital Status: Employee’s marital status (e.g., Single, Married).
-Age: Employee's age in years.
-CF_current Employee: Indicates if the employee is currently employed.
-Employee Count: Number of employees in the dataset (possibly always '1' for individual records).
-Job Satisfaction: Employee’s satisfaction with their job.
+- Attrition: Indicates whether the employee has left the organization.
+- CF_age band: Age group category of the employee.
+- CF_attrition label: Label categorizing employees as current or ex-employees.
+- Department: Department where the employee works (e.g., Sales, R&D).
+- Education Field: Field of study related to the employee’s education.
+- Gender: Employee's gender.
+- Job Role: Specific role or position of the employee within the company.
+- Marital Status: Employee’s marital status (e.g., Single, Married).
+- Age: Employee's age in years.
+- CF_current Employee: Indicates if the employee is currently employed.
+- Employee Count: Number of employees in the dataset (possibly always '1' for individual records).
+- Job Satisfaction: Employee’s satisfaction with their job.
 
 ## Data Cleaning and Preparation
 1. The data was imported, transformed and loaded into PoweBI.
@@ -31,4 +31,5 @@ Job Satisfaction: Employee’s satisfaction with their job.
 3. Slicer was added to Educational field and Job role and also Filters.
 4. KPI Cards were used to identify key metrics such as Attrition Count, Attrition Rate, Total Employees, Current Employees and Average Age
 
+## Data Visualisation
 
